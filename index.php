@@ -22,17 +22,21 @@
 
 
 		<!--code!-->
-		<title>test</title>
 
+		<title>Bootstrap Level Up</title>
 	</head>
+	<body class="sfooter">
+		<div class="sfooter-content">
 
+			<header>
+				<div class="container">
+					<!--navbar begins-->
+					<div class="navbar">
+						<
+			</header>
+		</div>
 
-
-
-
-
-
-
+	</body>
 
 
 
