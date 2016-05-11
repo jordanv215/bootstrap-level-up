@@ -34,6 +34,15 @@
 					<div class="navbar">
 						<a class="navbar-brand" href="#"><img class="flt-center img-tiny" src="images/deep-dive.png" alt="deepdivelogo" height="50" widgth="50"></a>
 						</div>
+
+					<div class="collapse navbar-collapse" id="Top navigation">
+						<ul class="nav navbar-nav navbar-right">
+							<li><a href ="/">Home</a></li>
+							<li class="dropdown">
+								<a href="#" class="dropdown-toggle"> data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">More Items <span class="caret"></span></a>
+							</ul>
+							</li>
+						</div>
 			</header>
 		</div>
 
