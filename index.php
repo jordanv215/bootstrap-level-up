@@ -32,7 +32,7 @@
 				<div class="container">
 					<!--navbar begins-->
 					<div class="navbar">
-						<a class="navbar-brand" href="#">sgag</a>
+						<a class="navbar-brand" href="#"><img class="flt-center img-tiny" src="images/deep-dive.png" alt="deepdivelogo" height="150" widgth="100"></a>
 						</div>
 			</header>
 		</div>
