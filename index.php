@@ -32,7 +32,8 @@
 				<div class="container">
 					<!--navbar begins-->
 					<div class="navbar">
-						<
+						<a class="navbar-brand" href="#">sgag</a>
+						</div>
 			</header>
 		</div>
 
