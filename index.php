@@ -32,6 +32,7 @@
 				<div class="container">
 					<!--navbar begins-->
 					<div class="navbar">
+
 						<a class="navbar-brand" href="#"><img class="flt-center img-tiny" src="images/deep-dive.png" alt="deepdivelogo" height="50" widgth="50"></a>
 						</div>
 
@@ -45,6 +46,12 @@
 								</ul>
 							</li>
 							</ul>
+						</div>
+					</div>
+					<div class="welcome">
+						<div class="col-sm-4">
+							<h3>Welcome to my example</h3>
+							<p>I really don't understand how to do this without CSS and still make it pretty. I'm hoping in class examples will help me with that because this site looks like trash at the moment</p>
 						</div>
 					</div>
 			</header>
