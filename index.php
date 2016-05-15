@@ -55,9 +55,19 @@
 						</div>
 					</div>
 			</header>
-		</div>
 
-	</body>
+			<main>
+				<div class="container">
+					<div class="main area">
+
+						<!--this is supposed to have an image and text in a yellow box-->
+						<div class="col-xs-12 well text-center">
+							<h1>Image</h1>
+							<<img class="flt-center img-med" src="images/bootstrap.png" alt="bootstrap-logo" height="150" widgth="150">
+							<p>I'm trying to use only bootstrap to style this webpage. As you can see, it is not working.</p>
+						</div>
+
+
 
 
 
